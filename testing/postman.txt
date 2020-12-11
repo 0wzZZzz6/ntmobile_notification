@@ -1,0 +1,26 @@
+{
+    "notification": {
+        "body": "fasfas",
+        "title": "ntmobile_sms"
+    },
+    "priority": "high",
+    "data": {
+        "body": "fasfas",
+        "title": "ntmobile_sms",
+        "click_action": "FLUTTER_NOTIFICATION_CLICK",
+        "id": "1",
+        "status": "done",
+        "destinationNumber": "0965123156"
+    },
+    "to": "cTVNhhi8STax3jOUzBAiLh:APA91bHViILxqSxFjbtyKxscOjOb1yNeMkdJZ6CeVbVHMA9x-w2zQgK8aStF6aFmWgM9YNt-sLpAeGr54GtssI0pmf-X7tm6kXXB8_OqKJa4n6Q2efvzCBRHdil4f945DhxBS6jnk3dj"
+}
+
+
+----------body---------
+
+
+
+
+
+https://fcm.googleapis.com/fcm/send
+----------url----------

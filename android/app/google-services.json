@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501744935050",
+    "firebase_url": "https://ntmobile-dc089.firebaseio.com",
+    "project_id": "ntmobile-dc089",
+    "storage_bucket": "ntmobile-dc089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501744935050:android:340c8aa36b9a9e4254cd73",
+        "android_client_info": {
+          "package_name": "ntmobile.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501744935050-86bco10g1q6ouks5ig5ltmvcmlsbobvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9D8L0ZTpL6KS6PW5WALuYyKq5C-o0Rik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501744935050-86bco10g1q6ouks5ig5ltmvcmlsbobvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
